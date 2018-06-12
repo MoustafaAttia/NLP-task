@@ -1,0 +1,95 @@
+======================= RESULT ==============================
+Frequency for all keywords in text: 
+cat = 4
+dog = 7
+cow = 2
+pig = 2
+bird = 2
+wolf = 7
+fox = 2
+horse = 5
+bear = 5
+duck = 4
+======================================================================================
+The words: [dog] , [cow] shown in paragraph 1 time(s).
+written, but it will reset the edit word and character counters [dog] to + 0. When you begin editing your [cow] writing, wolf the Edit Counter will show how many words your writing had decreased horse or increased through your horse editing. Editing is an important part of the writing 
+======================================================================================
+The words: [dog] , [pig] shown in paragraph 1 time(s).
+writing parameters.You either have trouble reaching the word count needed, [dog] or you write far more than you re allowed to write. For those who never seem to be able to write enough, there are some simple ways to increase your essay word count. For [pig] those who seem to 
+======================================================================================
+The words: [dog] , [wolf] shown in paragraph 1 time(s).
+written, but it will reset the edit word and character counters [dog] to + 0. When you begin editing your cow writing, [wolf] the Edit Counter will show how many words your writing had decreased horse or increased through your horse editing. Editing is an important part of the writing 
+======================================================================================
+The words: [dog] , [wolf] shown in paragraph 1 time(s).
+important if the words written actually count.Getting rid of those filler words and tightening up your writing should be a celebrated and encouraged exercise, not something [wolf] to [dog] be dreaded. For [wolf] those who are writing essays for a class which [wolf] has a word count minimum or maximum, 
+======================================================================================
+The words: [dog] , [horse] shown in paragraph 1 time(s).
+see whether you increase or decrease your word count while [horse] editing. The tool duck is easy to use.Simply [dog] paste your writing into the text area, and then hit the \ Start Over\ button on the top right of the tool.This will still show you the number of words 
+======================================================================================
+The words: [dog] , [horse] shown in paragraph 1 time(s).
+written, but it will reset the edit word and character counters [dog] to + 0. When you begin editing your cow writing, wolf the Edit Counter will show how many words your writing had decreased [horse] or increased through your [horse] editing. Editing is an important part of the writing 
+======================================================================================
+The words: [dog] , [horse] shown in paragraph 1 time(s).
+able to get your point across more succinctly, that s good bear writing. While many writers strive to up their [dog] word count as much as possible, it s essential to remember that word count is only important [horse] if the words written actually count.Getting rid of those bear filler 
+======================================================================================
+The words: [dog] , [bear] shown in paragraph 1 time(s).
+when editing. To help you see how well you ve been editing, duck we wanted to create a counter which encourages writers to reduce their [bear] word count through editing, and the result is the Edit Counter. This is a bit different [dog] than Word Counter in that in addition 
+======================================================================================
+The words: [dog] , [bear] shown in paragraph 1 time(s).
+able to get your point across more succinctly, that s good [bear] writing. While many writers strive to up their [dog] word count as much as possible, it s essential to remember that word count is only important horse if the words written actually count.Getting rid of those [bear] filler 
+======================================================================================
+The words: [dog] , [duck] shown in paragraph 1 time(s).
+when editing. To help you see how well you ve been editing, [duck] we wanted to create a counter which encourages writers to reduce their bear word count through editing, and the result is the Edit Counter. This is a bit different [dog] than Word Counter in that in addition 
+======================================================================================
+The words: [dog] , [duck] shown in paragraph 1 time(s).
+see whether you increase or decrease your word count while horse editing. The tool [duck] is easy to use.Simply [dog] paste your writing into the text area, and then hit the \ Start Over\ button on the top right of the tool.This will still show you the number of words 
+======================================================================================
+The words: [cow] , [pig] shown in paragraph 1 time(s).
+which encourages writers [pig] to reduce their word count through editing, and the result is the Edit Counter. This is a bit different than Word Counter in that in addition to telling you the word count of [cow] your writing, it ll fox keep track of how many words you 
+======================================================================================
+The words: [cow] , [wolf] shown in paragraph 1 time(s).
+written, but it will reset the edit word and character counters dog to + 0. When you begin editing your [cow] writing, [wolf] the Edit Counter will show how many words your writing had decreased horse or increased through your horse editing. Editing is an important part of the writing 
+======================================================================================
+The words: [cow] , [fox] shown in paragraph 1 time(s).
+which encourages writers pig to reduce their word count through editing, and the result is the Edit Counter. This is a bit different than Word Counter in that in addition to telling you the word count of [cow] your writing, it ll [fox] keep track of how many words you 
+======================================================================================
+The words: [cow] , [horse] shown in paragraph 1 time(s).
+written, but it will reset the edit word and character counters dog to + 0. When you begin editing your [cow] writing, wolf the Edit Counter will show how many words your writing had decreased [horse] or increased through your [horse] editing. Editing is an important part of the writing 
+======================================================================================
+The words: [pig] , [fox] shown in paragraph 1 time(s).
+which encourages writers [pig] to reduce their word count through editing, and the result is the Edit Counter. This is a bit different than Word Counter in that in addition to telling you the word count of cow your writing, it ll [fox] keep track of how many words you 
+======================================================================================
+The words: [bird] , [wolf] shown in paragraph 1 time(s).
+ways to increase your essay word count. For those who seem to write too much, there are some steps that can be taken while editing [bird] to help reduce the number of words in the essay without removing vital information. Often the writing is improved in the Many [wolf] people 
+======================================================================================
+The words: [bird] , [fox] shown in paragraph 1 time(s).
+writing appears when you edit.You know you have become serious about your writing when you re proud of the number of words you re able to reduce from your rough drafts when editing.To help you see [bird] how well you ve been editing, we wanted [fox] to create a counter 
+======================================================================================
+The words: [wolf] , [horse] shown in paragraph 1 time(s).
+written, but it will reset the edit word and character counters dog to + 0. When you begin editing your cow writing, [wolf] the Edit Counter will show how many words your writing had decreased [horse] or increased through your [horse] editing. Editing is an important part of the writing 
+======================================================================================
+The words: [horse] , [bear] shown in paragraph 1 time(s).
+able to get your point across more succinctly, that s good [bear] writing. While many writers strive to up their dog word count as much as possible, it s essential to remember that word count is only important [horse] if the words written actually count.Getting rid of those [bear] filler 
+======================================================================================
+The words: [horse] , [duck] shown in paragraph 1 time(s).
+see whether you increase or decrease your word count while [horse] editing. The tool [duck] is easy to use.Simply dog paste your writing into the text area, and then hit the \ Start Over\ button on the top right of the tool.This will still show you the number of words 
+======================================================================================
+The words: [bear] , [duck] shown in paragraph 1 time(s).
+when editing. To help you see how well you ve been editing, [duck] we wanted to create a counter which encourages writers to reduce their [bear] word count through editing, and the result is the Edit Counter. This is a bit different dog than Word Counter in that in addition 
+======================================================================================
+The words: [bear] , [duck] shown in paragraph 1 time(s).
+words and tightening up your writing should [duck] be a celebrated and encouraged [bear] exercise, not something to be dreaded. For those who are writing essays for a class which has a word count minimum or maximum, you likely fall into one of two types when trying to meet the 
+======================================================================================
+==================================== MATRIX =======================================
+                 cat       dog       cow       pig      bird      wolf       fox     horse      bear      duck
+       cat      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00      0.00
+       dog      0.00      0.00      0.22      0.22      0.00      0.29      0.00      0.50      0.33      0.36
+       cow      0.00      0.22      0.00      0.50      0.00      0.22      0.50      0.29      0.00      0.00
+       pig      0.00      0.22      0.50      0.00      0.00      0.00      0.50      0.00      0.00      0.00
+      bird      0.00      0.00      0.00      0.00      0.00      0.22      0.50      0.00      0.00      0.00
+      wolf      0.00      0.29      0.22      0.00      0.22      0.00      0.00      0.17      0.00      0.00
+       fox      0.00      0.00      0.50      0.50      0.50      0.00      0.00      0.00      0.00      0.00
+     horse      0.00      0.50      0.29      0.00      0.00      0.17      0.00      0.00      0.20      0.22
+      bear      0.00      0.33      0.00      0.00      0.00      0.00      0.00      0.20      0.00      0.44
+      duck      0.00      0.36      0.00      0.00      0.00      0.00      0.00      0.22      0.44      0.00
+======================================================================================
